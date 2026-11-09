@@ -1,0 +1,15 @@
+﻿Field,Buyer entry,Guidance
+Project reference,,Use a short name so suppliers can match your revisions.
+Item and intended use,,Describe the product and how the end customer will use it.
+Catalog model (optional),,"If you choose a catalog item later, enter its exact model code and source page."
+Material and finish,,Name preferred materials or finishes and any constraints.
+Finished dimensions,,Give dimensions with units and identify each measurement.
+Key features,,List features that affect design or production.
+Order quantity,,"State quantity per version, including the unit."
+Branding,,"Give the marking method, location and artwork status."
+Retail and shipping pack,,Describe the retail pack and request proposed carton details.
+Sales market,,Name the country or market where the product will be sold.
+Delivery destination,,"Name the delivery city, port or warehouse location."
+Timing,,Give a target arrival date or ask when the order could be ready.
+Sample and evidence,,Specify the sample and any supporting documents needed for review.
+Quote breakdown,,"Request the currency, delivery term, named place and separate charges needed to compare offers."
